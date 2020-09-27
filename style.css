@@ -28,4 +28,5 @@ a {
 }
 .menu {
     background-color: beige;
+    vertical-align: left;
 }
